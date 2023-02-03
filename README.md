@@ -2,7 +2,11 @@
 
 Program in C language in which 5 different scheduling algorithms are implemented: FIFO, STF, STCF, RR, MLFQ 
 
-- Course: Operating System, second semester of second year(2020), Computer Sciences.
+##
+
+Course 
+
+ - Operating System, second semester of second year(2020), Computer Sciences.
 
 ##
 
